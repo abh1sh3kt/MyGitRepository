@@ -1,5 +1,5 @@
 class HelloWorld{
 	public static void main(){
-		System.out.println("Hello world...Welcome to git");
+		System.out.println("Hello World...Welcome to git");
 	}
 }
